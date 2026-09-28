@@ -22,6 +22,7 @@ const CreateTicket = () => {
 
   const handleChange = (event) => {
     const { name, value } = event.target;
+    setError('');
     setFormData((previous) => ({ ...previous, [name]: value }));
   };
 
@@ -106,6 +107,8 @@ const CreateTicket = () => {
                 <input
                   required
                   type="email"
+                  pattern=".+@.+[.].+"
+                  title="Enter an email address with a dotted domain, such as name@example.com."
                   name="customer_email"
                   value={formData.customer_email}
                   onChange={handleChange}
