@@ -1,0 +1,13 @@
+[project]
+name = "tiqo-support"
+version = "1.0.0"
+requires-python = ">=3.12"
+dependencies = [
+	"email-validator==2.3.0",
+	"fastapi==0.141.1",
+	"python-dotenv==1.2.3",
+	"supabase==2.31.0",
+]
+
+[tool.vercel]
+entrypoint = "backend.main:app"

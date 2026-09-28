@@ -1,0 +1,41 @@
+<svg width="820" height="700" viewBox="0 0 820 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="700" rx="44" fill="#F8F2EA"/>
+  <circle cx="145" cy="135" r="84" fill="#F3D8B3" fill-opacity="0.9"/>
+  <circle cx="696" cy="118" r="72" fill="#D5E6D5"/>
+  <rect x="90" y="220" width="640" height="306" rx="32" fill="#FFFDFB" stroke="#E7D9CC" stroke-width="2"/>
+  <rect x="126" y="260" width="200" height="146" rx="20" fill="#F6E9DE"/>
+  <rect x="356" y="260" width="308" height="34" rx="12" fill="#EFE7DF"/>
+  <rect x="356" y="314" width="248" height="18" rx="9" fill="#F1E7DF"/>
+  <rect x="356" y="346" width="286" height="18" rx="9" fill="#F1E7DF"/>
+  <rect x="356" y="380" width="210" height="18" rx="9" fill="#F1E7DF"/>
+  <rect x="116" y="432" width="146" height="16" rx="8" fill="#E7C6A3"/>
+  <rect x="280" y="432" width="162" height="16" rx="8" fill="#9AB49A"/>
+  <rect x="456" y="432" width="215" height="16" rx="8" fill="#E4B180"/>
+
+  <g>
+    <circle cx="230" cy="150" r="40" fill="#F0BF9B"/>
+    <path d="M192 202C192 178.804 210.804 160 234 160H236C259.196 160 278 178.804 278 202V230H192V202Z" fill="#3C342F"/>
+    <rect x="180" y="222" width="104" height="100" rx="24" fill="#F1B184"/>
+    <path d="M166 250C166 238.954 174.954 230 186 230H286C297.046 230 306 238.954 306 250V324H166V250Z" fill="#6B7A64"/>
+  </g>
+
+  <g>
+    <circle cx="530" cy="158" r="42" fill="#F0C7A2"/>
+    <path d="M486 210C486 185.595 505.595 166 530 166C554.405 166 574 185.595 574 210V234H486V210Z" fill="#4D3A2D"/>
+    <rect x="474" y="236" width="118" height="116" rx="26" fill="#E4B180"/>
+    <path d="M463 268C463 254.745 473.745 244 487 244H571C584.255 244 595 254.745 595 268V324H463V268Z" fill="#8D9988"/>
+  </g>
+
+  <g>
+    <circle cx="628" cy="182" r="34" fill="#F0C7A2"/>
+    <path d="M594 228C594 206.461 611.461 189 633 189C654.539 189 672 206.461 672 228V246H594V228Z" fill="#4E3030"/>
+    <rect x="586" y="246" width="98" height="90" rx="21" fill="#D49E72"/>
+    <path d="M574 280C574 268.954 582.954 260 594 260H686C697.046 260 706 268.954 706 280V318H574V280Z" fill="#9AB49A"/>
+  </g>
+
+  <g opacity="0.75">
+    <circle cx="218" cy="550" r="18" fill="#E7C6A3"/>
+    <circle cx="554" cy="550" r="18" fill="#A7B69A"/>
+    <circle cx="632" cy="550" r="18" fill="#F0C7A2"/>
+  </g>
+</svg>
